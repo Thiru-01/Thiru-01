@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiru-01
-- 👀 I’m interested in App dev, backend, AI(DL and ML), Python
+- 👀 I’m interested in App dev, backend, AI(DL and ML), Python, Django, Web dev
 - 🌱 I’m currently learning Flutter and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thirugaja2001@gmail.com | 6383200869
