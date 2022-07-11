@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI(Deep Learing), Flutter(Advance)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-310ae.web.app/#/](Click Here)
+- 👨‍💻 About me [https://portfolio-310ae.web.app/#/](Click here)
 
 - 💬 Ask me about **Flutter, Python, C, C++**
 
