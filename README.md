@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiru-01&label=Profile%20views&color=0e75b6&style=flat" alt="thiru-01" /> </p>
 
-- 🔭 I’m currently working on **EMinds Project**
+- 🔭 I’m currently working on **Zoho Corp**
 
-- 🌱 I’m currently learning **AI(Deep Learing), Flutter(Advance)**
+- 🌱 I’m currently learning **AI(Deep Learing), Flutter(Advance), Ember JS**
 
 - 👨‍💻 About me [https://portfolio-310ae.web.app/#/](https://portfolio-310ae.web.app/#/)
 
