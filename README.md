@@ -9,7 +9,7 @@
 
 - 👨‍💻 About me [https://portfolio-310ae.web.app/#/](https://portfolio-310ae.web.app/#/)
 
-- 💬 Ask me about **Flutter, Python, C, C++**
+- 💬 Ask me about **Flutter, Python, C, C++, Java, Jersey, Postgress**
 
 - 📫 How to reach me **thirugaja2001@gmail.com**
 
