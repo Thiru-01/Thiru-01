@@ -37,5 +37,5 @@ Currently at **Zoho Corporation**, working on systems-level infrastructure in Ru
 
 📧 thirugaja2001@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/thirumurugan-candane-1067701b8) 
-🌐 [Portfolio](https://thiru-01.github.io/portfolio.github.io)  
+🌐 [Portfolio](https://thiru-01.github.io/portfolio)  
 📍 Pondicherry, India · **Open to Remote**
